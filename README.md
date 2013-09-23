@@ -1,0 +1,1 @@
+this is a micro blogging rails application
